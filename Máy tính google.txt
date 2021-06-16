@@ -1,0 +1,8 @@
+Máy tính google
+- B1: Xác định số hàng, số cột của máy tính.
+ Hình dung giao diện Máy tính cơ bản
+- B2: Ấn nút thì màn hình nhận giá trị của nút
+- B3: Tính toán dãy biểu thức trên màn Hình
+- B4: Hiển thị kết quả
+- B5: Trang điểm bằng CSS
+- B6: Phát triển các tính năng khác

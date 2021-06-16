@@ -1,0 +1,49 @@
+đi nhiều nơi
+em học để đi làm chuyển về fron-and
+Có thể xem lập trình như nghề thứ 2
+lương cao ạ
+Em học thiết kế website là để có nhiều sự lựa chọn nghề nghiệp trong tương lai hơn.
+Làm code chuyên nghiệp
+Hiểu để viết được 1 website
+Trở thành lập trình viên
+Trở thành một lập trình viên viết ra được các phần mềm, ứng dụng hoặc các game, mọi thứ, hoặc có thể trở thành hacker như anh Hiếu PC hihi ^^
+
+
+- Thầy vui lòng chia sẻ các định hướng phát triển lập trình ạ (thiết kế web, xây dựng ứng dụng...).
+- Theo thầy hiện nay hướng nào đang thịnh hành?
+
+- Để vững chuyên môn một hướng lập trình nào đó thì cần thời gian học tập và rèn luyện chuyên môn bao lâu (thông thường).
+- Lấy ví dụ lập trình theo hướng thịnh hành nhất hiện nay (câu hỏi trên) thì cần trang bị vững những chuyên môn nào để có thể tự tin làm việc được?
+
+- Web, game, ứng dụng, Nhúng, AI (trí tuệ nhân tạo)...(80% phân tích dữ liệu để máy học(học sâu về toán - ma trận, tích phân..) -> 20% code)
+
+Web : dễ tiếp cận nhất (tư duy về luồng...)
+Game: vui(tư duy logic nhiều), hơi bất ổn - game mobile dạng vừa và nhỏ: đưa lên android hoặc ios (đặc thù...)
+Ứng dụng: Để giải quyết 1 vấn đề, bài toán - web , mobile, pc...
+                        
+Web/Ứng dụng - Backend -> Server (Logic, Hệ thống, Kiến trúc phần mềm...) -> react native, flutter, angular...
+             - Fronted -> Hiển thị, Trải nghiệm người dùng...(Dễ để bắt đầu, khó để thành chuyên gia...)
+             - Code cơ bản....
+             - Tỉ lệ 80/20;
+- Intern
+- Fresher
+- Junior
+- Senior
+    - System Archietect
+    - Techlead, Team Lead, CTO
+
+- Trình độ của lập trình viên đánh giá theo số dự án của anh ta làm và số lỗi anh ta sửa
+- Dự án - Độ đa dạng - Độ lớn
+
+- ASK
+- Knowledge: Lập trình cơ bản - OOP (hướng đối tượng)
+- Skill: Lập trình được thành thạo các ứng dụng đơn giản
+- Attitude (Thái độ): Cầu thị, cam kết, kỉ luật, giao tiếp, tự học, tiếng anh đủ dùng (đọc tài liệu)...
+
+MVP: Minimum Value Product
+- Outsource
+
+- Quản lý công việc.
+- Hoàn thiện sản phẩm.
+- Tính cam kết cao.
+- Xây dựng mối quan hệ với KH và đồng nghiệp.
